@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560517619542",
+    "project_id": "food-delivery-38a42",
+    "storage_bucket": "food-delivery-38a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560517619542:android:b6ebef4327b3d6003bc0f7",
+        "android_client_info": {
+          "package_name": "com.example.ubereatsdriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgfCALQbN8Nqu56jTRciJp5Tkj-Bokcc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
